@@ -9,7 +9,7 @@
   "date": "2017/09/19",
   "description": "UI fix for when the UI is rendered using the CPU",
   "display_name": "UI CPU Performance Fix",
-  "forum":"https://forums.uberent.com/threads/ui-performance-fix-for-cpu-rendering-bug.72594/"
+  "forum":"https://forums.uberent.com/threads/ui-performance-fix-for-cpu-rendering-bug.72594/",
   "enabled": true,
   "hidden": true,
   "identifier": "com.Lars024.ui-fixesClient",
