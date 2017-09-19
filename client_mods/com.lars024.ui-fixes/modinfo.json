@@ -1,0 +1,63 @@
+{
+  "author": "Michiel de Ruyter",
+  "build": "99377",
+  "category": [
+    "UI",
+    "Fix"
+  ],
+  "context": "client",
+  "date": "2017/04/06",
+  "description": "UI fixes that massively improve performance while loading anything",
+  "display_name": "UI Performance Fixes",
+  "enabled": true,
+  "hidden": true,
+  "identifier": "com.Lars024.ui-fixesClient",
+  "scenes": {
+	  "new_game":
+	  [
+		"coui://ui/mods/com.Lars024.ui-fixes/loading-fix.css"
+	  ],
+	  "gw_play":
+	  [
+		"coui://ui/mods/com.Lars024.ui-fixes/loading-fix.css"
+	  ],
+	  "gw_start":
+	  [
+		"coui://ui/mods/com.Lars024.ui-fixes/loading-fix.css"
+	  ],
+	  "start":
+	  [
+		"coui://ui/mods/com.Lars024.ui-fixes/loading-fix.css"
+	  ],
+	  "connect_to_game":
+	  [
+		"coui://ui/mods/com.Lars024.ui-fixes/loading-fix.css"
+	  ],
+	  "community_mods":
+	  [
+		"coui://ui/mods/com.Lars024.ui-fixes/loading-fix.css"
+	  ],
+	  "system_editor":
+	  [
+		"coui://ui/mods/com.Lars024.ui-fixes/loading-fix.css"
+	  ],
+	  "live_game":
+	  [
+		"coui://ui/mods/com.Lars024.ui-fixes/loading-fix.css"
+	  ],
+	  "replay_loading":
+	  [
+		"coui://ui/mods/com.Lars024.ui-fixes/loading-fix.css"
+	  ],
+	  "settings":
+	  [
+		"coui://ui/mods/com.Lars024.ui-fixes/loading-fix.css"
+	  ],
+	  "start":
+	  [
+		"coui://ui/mods/com.Lars024.ui-fixes/loading-fix.css"
+	  ]
+  },
+  "signature": "(not yet implemented)",
+  "version": "0.0.1"
+}
