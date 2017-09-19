@@ -12,7 +12,7 @@
   "forum":"https://forums.uberent.com/threads/ui-performance-fix-for-cpu-rendering-bug.72594/",
   "enabled": true,
   "hidden": true,
-  "identifier": "com.Lars024.ui-fixesClient",
+  "identifier": "com.Lars024.ui-fix",
   "scenes": {
 	  "new_game":
 	  [
@@ -60,5 +60,5 @@
 	  ]
   },
   "signature": "(not yet implemented)",
-  "version": "1.0.1"
+  "version": "1.0.2"
 }
