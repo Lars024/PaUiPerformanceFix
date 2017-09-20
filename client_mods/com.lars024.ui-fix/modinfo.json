@@ -16,49 +16,49 @@
   "scenes": {
 	  "new_game":
 	  [
-		"coui://ui/mods/com.Lars024.ui-fixes/loading-fix.css"
+		"coui://ui/mods/com.lars024.ui-fix/loading-fix.css"
 	  ],
 	  "gw_play":
 	  [
-		"coui://ui/mods/com.Lars024.ui-fixes/loading-fix.css"
+		"coui://ui/mods/com.lars024.ui-fix/loading-fix.css"
 	  ],
 	  "gw_start":
 	  [
-		"coui://ui/mods/com.Lars024.ui-fixes/loading-fix.css"
+		"coui://ui/mods/com.lars024.ui-fix/loading-fix.css"
 	  ],
 	  "start":
 	  [
-		"coui://ui/mods/com.Lars024.ui-fixes/loading-fix.css"
+		"coui://ui/mods/com.lars024.ui-fix/loading-fix.css"
 	  ],
 	  "connect_to_game":
 	  [
-		"coui://ui/mods/com.Lars024.ui-fixes/loading-fix.css"
+		"coui://ui/mods/com.lars024.ui-fix/loading-fix.css"
 	  ],
 	  "community_mods":
 	  [
-		"coui://ui/mods/com.Lars024.ui-fixes/loading-fix.css"
+		"coui://ui/mods/com.lars024.ui-fix/loading-fix.css"
 	  ],
 	  "system_editor":
 	  [
-		"coui://ui/mods/com.Lars024.ui-fixes/loading-fix.css"
+		"coui://ui/mods/com.Lars024.ui-fix/loading-fix.css"
 	  ],
 	  "live_game":
 	  [
-		"coui://ui/mods/com.Lars024.ui-fixes/loading-fix.css"
+		"coui://ui/mods/com.lars024.ui-fix/loading-fix.css"
 	  ],
 	  "replay_loading":
 	  [
-		"coui://ui/mods/com.Lars024.ui-fixes/loading-fix.css"
+		"coui://ui/mods/com.lars024.ui-fix/loading-fix.css"
 	  ],
 	  "settings":
 	  [
-		"coui://ui/mods/com.Lars024.ui-fixes/loading-fix.css"
+		"coui://ui/mods/com.lars024.ui-fix/loading-fix.css"
 	  ],
 	  "start":
 	  [
-		"coui://ui/mods/com.Lars024.ui-fixes/loading-fix.css"
+		"coui://ui/mods/com.lars024.ui-fix/loading-fix.css"
 	  ]
   },
   "signature": "(not yet implemented)",
-  "version": "1.0.4"
+  "version": "1.0.5"
 }
